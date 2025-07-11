@@ -1,0 +1,16 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/tallerbackend
+  rabbitmq:
+    addresses: amqp://guest:guest@localhost:5672
+
+ledger:
+  base-url: http://localhost:8080
+
+logging:
+  level:
+    org.springframework.web.reactive.function.client.ExchangeFunctions: TRACE
+
+server:
+  port: 8080
