@@ -28,4 +28,4 @@ Below are screenshots from local tests:
 
 ![Screenshot 1](screenshots-local-test/FindByIDTestCompleted.png)
 ![Screenshot 2](screenshots-local-test/MongoSavedPosted.png)
-![Screenshot 3](screenshots-local-test/start.png)
+![Screenshot 3](screenshots-local-test/Start.png)
